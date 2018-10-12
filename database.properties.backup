@@ -1,0 +1,6 @@
+#Fri Oct 12 10:43:58 GMT 2018
+user=db_user
+db=db_name
+port=3306
+password=db_passwd
+host=localhost
